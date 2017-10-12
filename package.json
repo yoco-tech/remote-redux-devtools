@@ -1,6 +1,6 @@
 {
-  "name": "remote-redux-devtools",
-  "version": "0.5.12",
+  "name": "@yoco-tech/remote-redux-devtools",
+  "version": "0.5.13",
   "description": "Relay Redux actions to remote Redux DevTools.",
   "main": "lib/index.js",
   "files": [
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zalmoxisus/remote-redux-devtools.git"
+    "url": "https://github.com/yoco-tech/remote-redux-devtools.git"
   },
   "keywords": [
     "redux",
@@ -31,7 +31,7 @@
   "author": "Mihail Diordiev <zalmoxisus@gmail.com> (https://github.com/zalmoxisus)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zalmoxisus/remote-redux-devtools/issues"
+    "url": "https://github.com/yoco-tech/remote-redux-devtools/issues"
   },
   "homepage": "https://github.com/zalmoxisus/remote-redux-devtools",
   "devDependencies": {
